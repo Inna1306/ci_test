@@ -9,7 +9,8 @@
   "scripts": {
     "test": "jest",
     "lint": "eslint .",
-    "lint:fix": "eslint . --fix"
+    "lint:fix": "eslint . --fix",
+    "build": "exit 0"
   },
   "devDependencies": {
     "@babel/cli": "^7.29.7",
